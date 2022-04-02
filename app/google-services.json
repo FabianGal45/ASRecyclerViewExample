@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "582536360740",
+    "firebase_url": "https://reciclerviewfr-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "reciclerviewfr",
+    "storage_bucket": "reciclerviewfr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582536360740:android:55a8efdda0a639e2c0f9b1",
+        "android_client_info": {
+          "package_name": "com.example.reciclerviewbookexercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582536360740-3u2mbn3evad9u30p1g4m5gshloqst72r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiA_A2nKLRzbn01x2Cq8wBZBWF0pN8EH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582536360740-3u2mbn3evad9u30p1g4m5gshloqst72r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582536360740:android:ff2eca0a2fba3242c0f9b1",
+        "android_client_info": {
+          "package_name": "com.example.reciclerviewreadingdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582536360740-3u2mbn3evad9u30p1g4m5gshloqst72r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiA_A2nKLRzbn01x2Cq8wBZBWF0pN8EH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582536360740-3u2mbn3evad9u30p1g4m5gshloqst72r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
